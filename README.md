@@ -1,5 +1,7 @@
 # 🔎 ESGLens
 
+**Live demo:** https://esglens-6myx5vwd47qhzzhpexrjqq.streamlit.app/
+
 An AI-powered tool that extracts structured, **page-cited** ESG data from
 sustainability report PDFs — built on the Gemini API's native document
 understanding, not a text-chunking RAG pipeline.
@@ -23,6 +25,11 @@ understanding, not a text-chunking RAG pipeline.
   very low daily request cap (see "About the free tier" below)
 - Never computes an overall "ESG score" — the extracted evidence speaks for itself
 
+## Screenshots
+
+![Upload screen](screenshots/upload.png)
+
+![Dashboard](screenshots/dashboard.png)
 ---
 
 ## Run it — step by step
